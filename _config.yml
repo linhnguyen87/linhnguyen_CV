@@ -14,21 +14,21 @@ author: Fábio Madeira
 # jekyllt.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /linhnguyen_CV/
-title: Mong Phan's Resume
-name: Mong Phan
-email: mongphantan@gmail.com
+title: Linh Nguyen Resume
+name: Linh Nguyen
+email: ntylpht@gmail.com
 email_full: 
 website: 
 website_full: 
 github: trending
 twitter: twitter
-tel: +84 xxxx xxx xxx
-tel_full: tel:+840000000000
+tel: 0327 259 xxx
+tel_full: tel:+84327259xxx
 google_maps: 
 address:
-  street: ABC street
-  postcode: 7000000
-  city: Ho Chi Minh
+  street: 55 National Highway
+  postcode: 7900000
+  city: Ba Ria Vung Tau
   country: Vietnam
 google_analytics: UA-69300817-1
 
